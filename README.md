@@ -1,5 +1,8 @@
 ## Hello world! 👋
 
+## This is a repository for my Intro to Web Comms class!
+
+
 <!--
 **Mariantix/Mariantix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
