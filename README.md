@@ -2,6 +2,8 @@
 
 ## This is a repository for my Intro to Web Comms class!
 
+## Now this is a message to test my "commits" for the third time!
+
 
 <!--
 **Mariantix/Mariantix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
