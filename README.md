@@ -1,10 +1,10 @@
-## Hello world! 👋
+## Hello, my name is Maria Nefulda.
 
-## This is a repository for my Intro to Web Comms class!
-
-## Now this is a message to test my "commits" for the third time!
-
-## Now for the final commits test - because why not do 5 commit tests?
+## Education
+    Institution: Southern Alberta Institute of Technology
+    School: Advanced Technology
+    Program: Interactive Design
+    Major: User Experience
 
 
 
