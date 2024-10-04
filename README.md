@@ -6,6 +6,12 @@
     Program: Interactive Design
     Major: User Experience
 
+## Previous Experience: 
+    Position: Communications Intern (June - August 2020)
+        Responsibilities:
+            - social media: created relevant social media posts and relevant captions, implemented scheduled posts
+            - website development: develop the website with multiple pages and functioning "Contact" form 
+            - brand/logo development: developed the main logo and implemented it into print and digital materials
 
 
 <!--
